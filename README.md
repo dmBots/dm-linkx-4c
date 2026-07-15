@@ -11,5 +11,5 @@ This repository is part of the DAMIAO public materials system.
 - drawings
 - firmware
 - LinkX模块使用说明书V1.1 2025-05-12.pdf
-- XML文件
-- 模块配置工具
+- module-configuration-tool
+- xml-files
