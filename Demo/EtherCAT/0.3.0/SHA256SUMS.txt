@@ -1,0 +1,2 @@
+c7b99450cd7cad5f958b051ea31bb16d0fb7451b2b20825817a7fa2d01add742  Win_x64/dmecat-0.3.0-win64-preview-c846920-public1.zip
+1c973e58c663cbb0096c52288da84da7b2b2b79433dd03d8a25b2c952bb7c87a  Linux_x64/dmecat-0.3.0-linux-x64-preview-c846920-public1.tar.gz
